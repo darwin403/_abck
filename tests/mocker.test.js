@@ -1,0 +1,3 @@
+describe("Mocker", () => {
+  test("dummy", () => {});
+});
